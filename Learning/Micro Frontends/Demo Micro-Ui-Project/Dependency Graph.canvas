@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"74870180a165e152","x":-200,"y":-340,"width":250,"height":60,"type":"text","text":"Micro-Ui Root"},
+		{"id":"c2d2e549f6f4d42a","x":50,"y":-137,"width":250,"height":60,"type":"text","text":"Micro-Ui App2"},
+		{"id":"77d99f69f2918250","x":-450,"y":-137,"width":250,"height":60,"type":"text","text":"Micro-Ui App1 something"},
+		{"id":"eca8fc932d714341","x":-522,"y":-780,"width":895,"height":400,"type":"file","file":"Learning/Micro Frontends/Demo Micro-Ui-Project/Demo Micro-Ui-Project.md"}
+	],
+	"edges":[
+		{"id":"5d5eb8723f79ab4b","fromNode":"74870180a165e152","fromSide":"bottom","toNode":"77d99f69f2918250","toSide":"top"},
+		{"id":"842369311af9103c","fromNode":"74870180a165e152","fromSide":"bottom","toNode":"c2d2e549f6f4d42a","toSide":"top"}
+	]
+}
